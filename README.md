@@ -6,7 +6,7 @@ CS student building things at the intersection of **Cybersecurity**, **AI**, and
  Interested in where AI and cybersecurity intersect
  Learning, building, and following the questions that make me curious
 
-** Check out my portfolio:** [arpita-portfolio-swart.vercel.app](https://arpita-portfolio-swart.vercel.app/)
+**Check out my portfolio:** [arpita-portfolio-swart.vercel.app](https://arpita-portfolio-swart.vercel.app/)
 
 ---
 
