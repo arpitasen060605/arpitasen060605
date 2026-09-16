@@ -15,8 +15,8 @@ AI × Cybersecurity · UI/UX design patterns · Automation · Networking & Linux
 
 **Recent work**
 -  [CyberPilot AI](https://github.com/arpitasen060605/cyberpilot-ai) - AI-powered SOC analyst assistant using Gemini + RAG
--  [MoonMuse](https://github.com/arpitasen060605/Whimsicalllll) - moon-phase-inspired journaling app
--  Personal SOC Dashboard - security dashboard with live CVE feed & IOC tracking
+-  [MoonMuse](https://github.com/arpitasen060605/Whimsicalllll) - Moon-phase-inspired journaling app
+-  Personal SOC Dashboard - Security dashboard with live CVE feed & IOC tracking
 
 **Connect**
 [LinkedIn](https://www.linkedin.com/in/arpita-sen-00065a32b/) · [Portfolio](https://arpita-portfolio-swart.vercel.app/)
