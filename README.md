@@ -2,8 +2,8 @@
 
 CS student building things at the intersection of **Cybersecurity**, **AI**, and creative development.
 
- Exploring how systems work, how they break, and how they can be made stronger
- Interested in where AI and cybersecurity intersect
+ Exploring how systems work, how they break, and how they can be made stronger.
+ Interested in where AI and cybersecurity intersect.
  Learning, building, and following the questions that make me curious
 
 **Check out my portfolio:** [arpita-portfolio-swart.vercel.app](https://arpita-portfolio-swart.vercel.app/)
